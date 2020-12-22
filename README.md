@@ -1,4 +1,4 @@
-### ARTN-DEV
+<h1 align="center">ARTN-DEV</h1>
 
 <!--
 **artn-dev/artn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
