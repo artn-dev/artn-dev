@@ -11,7 +11,7 @@
    - Assembly Language
    - Eletronics
 
-&nbsp;Fun fact: I do a lot of stuff but rarely put on github XD
+&nbsp;Fun fact: I do a lot of stuff but rarely put it on github XD
 
 &nbsp;
 
