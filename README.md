@@ -7,7 +7,7 @@
 &nbsp;Currently learning frontend development\
 &nbsp;Interested in learning:
    - Embedded Systems
-   - Robotic Simulations
+   - Robotics Simulations
    - Assembly Language
    - Eletronics
 
