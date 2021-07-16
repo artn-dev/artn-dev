@@ -4,12 +4,11 @@
 ### About me 
 
 &nbsp;I currently study Computer Science at the Federal University of Pernambuco\
-&nbsp;Currently learning frontend development\
+&nbsp;Currently learning frontend development and OpenCV\
 &nbsp;Interested in learning:
-   - Embedded Systems
-   - Robotics Simulations
-   - Assembly Language
-   - Eletronics
+   - Graphics Programming
+   - Robotics
+   - Augmented Reality
 
 &nbsp;Fun fact: I do a lot of stuff but rarely put it on github XD
 
@@ -26,14 +25,11 @@
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=CMake&logoColor=red)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Material-ui](https://img.shields.io/badge/-Materialui-05122A?style=flat&logo=materialui&logoColor=007ACC)\
+![Material-ui](https://img.shields.io/badge/-Material--ui-05122A?style=flat&logo=materialui&logoColor=007ACC)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
