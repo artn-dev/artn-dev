@@ -37,8 +37,8 @@
 
 <p align="center">
 <a href="https://github.com/artn-dev">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
 
