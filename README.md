@@ -35,9 +35,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center" width="100%">
-   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img max-width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
+<p align="center">
+   <img max-height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+
+   <img max-height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
 </p>
 
 ---
