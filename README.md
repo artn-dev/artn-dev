@@ -36,11 +36,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-   <img height="240px" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+   <img align="left" height="240px" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 
-   <img height="240px" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
+   <img align="rigt" height="240px" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artn-dev&layout=compact&langs_count=8&theme=nord"/>
 </p>
-
----
-
-Profile based on template by [AVS1508](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/AVS1508.md)
